@@ -5,15 +5,6 @@
 2. Download the latest release.
 4. Enjoy!
 
-🖼️ **𝗣𝗶𝗰𝘁𝘂𝗿𝗲𝘀:**
-Here are some previews:
-
-![Imgur](https://i.imgur.com/M9BDkIj.gif)  
-*Blocking The Sword* [temporary]
-
-![Imgur](https://i.imgur.com/7m3OlOf.gif)  
-*Blockhitting With The Sword* [temporary]
-
 ---
 
 🛠️ **𝗡𝗲𝗲𝗱 𝗛𝗲𝗹𝗽?**
